@@ -2,7 +2,7 @@
   "name": "2800-202404-bby18",
   "version": "1.0.0",
   "description": "Team Name: BBY-18\r Team Members:\r - Tanner Parkes\r - Mitchell MacDonald\r - Hugo Amuan\r - Gurshaan Daula\r - Aathavan Sriharan\r ## More details to come\r TBA",
-  "main": "index.js",
+  "main": "js/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
